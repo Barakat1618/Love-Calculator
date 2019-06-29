@@ -34,26 +34,6 @@ public class Calculator {
 
 		String girl = sc1.nextLine();
 
-		/*
-		 * 
-		 * if(boy.contentEquals("hamdan")){
-		 * 
-		 * System.out.println("tu single hi marega be"); } else if
-		 * 
-		 * (boy.contentEquals("HAMDAN")){
-		 * 
-		 * System.out.println("TU SINGLE HI MAREGA BE"); } else if
-		 * 
-		 * (girl.contentEquals("HAMDAN")){
-		 * 
-		 * System.out.println("TU SINGLE HI MAREGI "); } else if
-		 * 
-		 * (girl.contentEquals("hamdan")){
-		 * 
-		 * System.out.println("tu single hi maregi "); } else {
-		 * 
-		 */
-
 		HashMap<Character, Integer> hm = new HashMap<Character, Integer>();
 
 		hm.put('a', 15);
